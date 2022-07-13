@@ -1,0 +1,11 @@
+body {background-color: beige; text-align: center;}
+h1, h4{margin: 0 0 0 0;}
+#box {margin: auto; border: 3px solid black; border-radius: 15px; height: 340px; width: 250px; margin-top: 10px;}
+input[type=text], input[type=password], input[type=email]{width: 75px; border-radius: 25px; margin-top: 10px;}
+input[type=button], input[type=submit]{border-radius: 15px; background-color: #F7EBEC; width: 125px; height: 40px;}
+#topleft {border: 5px dotted black; float: left; height: 320px; width: 590px; display:inline;}
+#topright {border: 5px dotted black; float: right; height: 320px; width: 590px; display: inline}
+#bottomleft {border: 5px dotted black; float: left; height: 320px; width: 590px; display: inline; clear: both;}
+#bottomright {border: 5px dotted black; float: right; height: 320px; width: 590px; display: inline;}
+ul {text-align: left;list-style-position: inside; line-height: 40px;}
+
